@@ -1,10 +1,10 @@
 import React from 'react';
-import {StyledCompanyName} from "./companyName.style";
+import {StyledCompanyName, Name} from "./companyName.style";
 
 export const CompanyName = () => {
 	return(
 		<StyledCompanyName>
-			HomeMadePizza
+			<Name>HomeMadePizza</Name>
 		</StyledCompanyName>
 	)
 }

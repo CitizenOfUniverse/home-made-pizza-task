@@ -6,3 +6,7 @@ export const StyledCompanyName = styled.div`
     font-size: 2.5em;
 	height: 57px;
 `;
+export const Name = styled.div`
+    display: flex;
+    align-items: center; 
+    `;

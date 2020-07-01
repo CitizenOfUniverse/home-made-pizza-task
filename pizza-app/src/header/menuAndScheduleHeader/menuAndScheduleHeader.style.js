@@ -7,7 +7,7 @@ export const StyledMenuAndScheduleHeader = styled.div`
     display: flex;
     flex-direction: column;
     font-family: "Red Hat Display";
-    color: rgb(251, 232, 191);
+    color: #FBE8BF;
     align-items:center;
 `;
 export const Menu = styled.div`
@@ -21,7 +21,7 @@ export const Menu = styled.div`
 `;
 export const ElementOfMenu = styled.div`
     font: normal 100% 'trebuchet ms', sans-serif;
-    color: rgb(251, 232, 191);
+    color: #FBE8BF;
     letter-spacing: 0.1em;
     text-decoration: none;
     padding: 6px 35px 5px 28px;
