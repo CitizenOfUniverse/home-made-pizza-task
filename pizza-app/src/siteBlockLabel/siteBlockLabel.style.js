@@ -3,4 +3,5 @@ import {deliveryLabel} from "../delivery/images";
 
 export const StyledSiteBlockLabel = styled.div`
 	width: 286px;
-	height: 53px;`;
+	height: 53px;
+	`;

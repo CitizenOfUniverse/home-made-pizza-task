@@ -1,6 +1,5 @@
 import React from "react";
-import {StyledDescribeFrontImage} from "./describeFrontImage.style";
+import {StyledDescribeFrontImage, StyledSpace} from "./describeFrontImage.style";
 
-export const DescribeFrontImage = () =>{
-	return <StyledDescribeFrontImage />
-}
+export const DescribeFrontImage = () => <div><StyledSpace />
+	<StyledDescribeFrontImage /></div>;
